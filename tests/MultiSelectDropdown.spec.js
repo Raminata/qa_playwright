@@ -24,4 +24,5 @@ test("Handle dropdons", async ({page}) => {
 
 
     await page.waitForTimeout(5000);
+    
 })
